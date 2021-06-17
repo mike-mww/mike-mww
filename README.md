@@ -8,10 +8,10 @@ I am a full stack web applications engineer from __Las Vegas, NV__.
 ![alt text][devicon-php] ![alt text][devicon-laravel] ![alt text][devicon-nodejs] ![alt text][devicon-express]
 
 #### Front-end
-![alt text][devicon-html5] ![alt text][devicon-css3] ![alt text][devicon-javascript] ![alt_text][devicon-typescript] ![alt text][devicon-vuejs] ![alt text][devicon-handlebars] ![alt text][devicon-jquery] ![alt text][devicon-sass] ![alt text][devicon-bootstrap]
+![alt text][devicon-html5] ![alt text][devicon-css3] ![alt text][devicon-javascript] ![alt text][devicon-vuejs] ![alt text][devicon-handlebars] ![alt text][devicon-jquery] ![alt text][devicon-sass] ![alt text][devicon-bootstrap]
 
 #### Database
-![alt text][devicon-mysql] ![alt text][devicon-mongodb]
+![alt text][devicon-mysql]
 
 #### DevOps
 ![alt text][devicon-git] ![alt text][devicon-npm] ![alt_text][devicon-gulp] ![alt text][devicon-webpack] ![alt text][devicon-docker]
