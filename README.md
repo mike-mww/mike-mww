@@ -24,7 +24,6 @@ I am a full stack web applications engineer from __Las Vegas, NV__.
 [devicon-html5]: https://icongr.am/devicon/html5-original-wordmark.svg?size=30 "HTML 5"
 [devicon-css3]: https://icongr.am/devicon/css3-original-wordmark.svg?size=30 "CSS 3"
 [devicon-javascript]: https://icongr.am/devicon/javascript-original.svg?size=30 "JavaScript"
-[devicon-typescript]: https://icongr.am/devicon/typescript-original.svg?size=30 "TypeScript" 
 [devicon-vuejs]: https://icongr.am/devicon/vuejs-original.svg?size=30 "Vue.js"
 [devicon-handlebars]: https://icongr.am/devicon/handlebars-original.svg?size=30 "Handlebars"
 [devicon-jquery]: https://icongr.am/devicon/jquery-original.svg?size=30 "jQuery"
@@ -32,7 +31,6 @@ I am a full stack web applications engineer from __Las Vegas, NV__.
 [devicon-bootstrap]: https://icongr.am/devicon/bootstrap-plain.svg?size=30&color=563D7C "Bootstrap"
 
 [devicon-mysql]: https://icongr.am/devicon/mysql-original.svg?size=30 "MySQL"
-[devicon-mongodb]: https://icongr.am/devicon/mongodb-original.svg?size=30 "MongoDB"
 
 [devicon-git]: https://icongr.am/devicon/git-original.svg?size=30 "Git"
 [devicon-npm]: https://icongr.am/devicon/npm-original-wordmark.svg?size=30 "NPM"
